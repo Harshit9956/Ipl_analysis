@@ -16,7 +16,8 @@ most toss winner team
 toss winner is match winner.
 # conclusion
 Mumbai Indian has won maximum final matches having 5 ipl trophies.
-Chennai superking won the maximum special matches.
+Chennai superking won the maximum special matches having about 32% of the total matches.
 Mumbai and kolkata  are  most preffered city for special mathces.
 So mumbai is the most revenue generating city from the ipl matches.
+AB de villier is the man of the match with the maximum count of 25 times.
 
